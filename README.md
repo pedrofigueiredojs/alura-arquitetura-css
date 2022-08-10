@@ -2,5 +2,5 @@
 
 ## Links para testes
 
-* [Vercel](#)
-* [Github Pages](#)
+* [Vercel](https://alura-arquitetura-css-black.vercel.app/)
+* [Github Pages](https://pedrofigueiredojs.github.io/alura-arquitetura-css/)
